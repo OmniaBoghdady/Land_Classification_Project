@@ -40,3 +40,4 @@ while low NDVI values correspond to urban or barren regions.
 Omnia Boghdady  
 Data Science & Machine Learning Engineer
 
+
